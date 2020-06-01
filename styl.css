@@ -6,7 +6,7 @@ font-family:
 #baner
 {
 background-color: #E8C84E;
-height: 50px;
+max-height: 50px;
 font-size: 130%;
 text-align: center;
 }
@@ -14,8 +14,8 @@ text-align: center;
 #lewy
 {
 background-color:  #FFB544;
-height: 500px;
-width: 40%;
+max-height: 500px;
+max-width: 40%;
 font-size: 130%;
 float: left;
 }
@@ -23,8 +23,8 @@ float: left;
 
 #srodkowy
 {
-height: 500px;
-width: 30%;
+max-height: 500px;
+max-width: 30%;
 text-align: center;
 font-size: 130%;
 float: left;
@@ -33,8 +33,8 @@ float: left;
 #prawy
 {
 background-color: #FFB544;
-height: 500px;
-width: 30%;
+max-height: 500px;
+max-width: 30%;
 font-size: 130%;
 text-align: center;
 float: left;
@@ -45,7 +45,7 @@ float: left;
 {
 clear: both;
 background-color:  #E8C84E;
-height: 50px;
+max-height: 50px;
 text-align: right;
 padding: 10px;
 
