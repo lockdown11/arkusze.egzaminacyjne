@@ -25,6 +25,7 @@ float: left;
 
 #srodkowy
 {
+min-height: 300px;
 max-height: 500px;
 max-width: 30%;
 text-align: center;
@@ -35,6 +36,7 @@ float: left;
 #prawy
 {
 background-color: #FFB544;
+min-height: 300px;
 max-height: 500px;
 max-width: 30%;
 font-size: 130%;
@@ -47,6 +49,7 @@ float: left;
 {
 clear: both;
 background-color:  #E8C84E;
+min-height: 30px;
 max-height: 50px;
 text-align: right;
 padding: 10px;
