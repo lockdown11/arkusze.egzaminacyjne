@@ -6,6 +6,7 @@ font-family:
 #baner
 {
 background-color: #E8C84E;
+min-height: 25px;
 max-height: 50px;
 font-size: 130%;
 text-align: center;
@@ -14,8 +15,9 @@ text-align: center;
 #lewy
 {
 background-color:  #FFB544;
+min-height: 250px;
 max-height: 500px;
-max-width: 40%;
+width: 40%;
 font-size: 130%;
 float: left;
 }
