@@ -1,27 +1,32 @@
 body{
-    font-family: 'Garamond';
+    font-family: 'Verdana';
+    
 }
-.gora,.stopka{
-    background-color: #3CB371;
+
+.baner,.stopka{
+    background-color: #4682B4;
     color: white;
-    padding: 10px;
-    font-size: 130%;
+    padding: 20px;
+    font-size: 120%;
     text-align: center;
 }
+.stopka{
+    clear: both;
 .lewy{
-    background-color: #FAEBD7;
-    width: 55%;
-    height: 450px;
-    float:left;
+    background-color: #40E0D0;
+    width: 40%;
+    height: 500px;
+    float: left;
 }
 .prawy{
-    background-color: #FAEBD7;
-    width: 45%;
-    height: 450px;
-    float:left;
+    background-color: #40E0D0;
+    width: 60%;
+    height: 500px;
+    float: left;
 }
+
 img{
-    padding: 3px;
-    margin: 15px;
-    border: 2px dashed #3CB371;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #000080;
 }
